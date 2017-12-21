@@ -6,3 +6,10 @@ Applies "Sauvola" thresholding to prepare a binary image out of the given input 
 
 2) smoothen_image.py
 Smoothens image using "fastNlMeansDenoising" and "Gaussian blur".
+
+
+
+
+Important Links:
+1) Denoising an image
+https://stackoverflow.com/questions/30369031/remove-spurious-small-islands-of-noise-in-an-image-python-opencv
